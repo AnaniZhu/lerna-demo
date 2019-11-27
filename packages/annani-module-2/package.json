@@ -11,6 +11,7 @@
   "license": "ISC",
   "gitHead": "a92fb72f537da4d54cd0e1f201afb5f93360e942",
   "dependencies": {
+    "annani-module-3": "^1.0.0",
     "lodash": "^4.17.15",
     "vue-router": "^3.1.3"
   }
