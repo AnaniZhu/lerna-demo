@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "a92fb72f537da4d54cd0e1f201afb5f93360e942",
+  "gitHead": "a929bae24a934edbc685a3f8eabdd4d90d8c264c",
   "dependencies": {
     "annani-module-2": "^1.0.3"
   }
