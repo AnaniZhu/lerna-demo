@@ -1,6 +1,6 @@
 {
   "name": "annani-module-2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "gitHead": "a929bae24a934edbc685a3f8eabdd4d90d8c264c",
   "dependencies": {
-    "annani-module-3": "^1.0.3",
+    "annani-module-3": "^1.0.4",
     "lodash": "^4.17.15",
     "vue-router": "^3.1.3"
   }

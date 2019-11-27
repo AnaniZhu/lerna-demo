@@ -1,6 +1,6 @@
 {
   "name": "annani-module-1",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "gitHead": "a929bae24a934edbc685a3f8eabdd4d90d8c264c",
   "dependencies": {
-    "annani-module-2": "^1.0.3"
+    "annani-module-2": "^1.0.4"
   }
 }
